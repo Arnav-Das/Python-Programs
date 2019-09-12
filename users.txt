@@ -1,0 +1,8 @@
+name : 2000
+arnav : 13500
+abhishek : 6400
+abhi : 3600
+
+CARL : 6000
+CARL : 9000
+aayush : 0

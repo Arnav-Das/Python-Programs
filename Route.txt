@@ -1,0 +1,8 @@
+		           BUS ROUTE 
+	   STOPS     		:  ARRIVAL(TIME)
+	1=>BHILAI		:     06:00
+	2=>RAIPUR		:     08:00
+	3=>DHAMTARI		:     11:00
+	4=>KANKER 		:     14:00
+	5=>DALLI RAJHARA	:     16:00
+	6=>RAJNANDGAON		:     19:00
